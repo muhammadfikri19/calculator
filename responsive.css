@@ -1,0 +1,6 @@
+@media (max-width: 670px) {
+    .calculator-grid {
+        grid-template-columns: repeat(4, 80px);
+        grid-template-rows: minmax(120px, auto) re;
+    }
+}
